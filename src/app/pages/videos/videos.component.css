@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+  }
+
+.nav{
+  color: #4a00ff !important;
+}
+
+
+.btn-custom-light{
+  background-color: #f4f4f4;
+    color: #000;
+}
+
+
+.btn-custom{
+  background-color: #4a00ff;
+    color: #fff;
+}
